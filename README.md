@@ -85,8 +85,18 @@ storage ansible_host=<внешний ip-адрес> fqdn=<полное доме�
 Решение:
 
 Задание 1:
+![1](https://github.com/Sawyer086/Terraform_03/blob/main/1/1.0.jpg)
+
+![2](https://github.com/Sawyer086/Terraform_03/blob/main/1/1.1.jpg)
 
 Задание 2:
+![1](https://github.com/Sawyer086/Terraform_03/blob/main/2/2.0.jpg)
+
+![2](https://github.com/Sawyer086/Terraform_03/blob/main/2/2.1.jpg)
+
+[count-vm.tf](https://github.com/Sawyer086/Terraform_03/blob/main/src/count-vm.tf)
+
+[for_each-vm.tf](https://github.com/Sawyer086/Terraform_03/blob/main/src/for_each-vm.tf)
 
 Задание 3:
 
