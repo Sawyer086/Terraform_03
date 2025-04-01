@@ -48,8 +48,6 @@ resource "yandex_compute_instance" "web" {
     core_fraction = var.yandex_compute_instance_web[0].core_fraction
   }
 
-
-
   boot_disk {
     initialize_params {
       image_id = data.yandex_compute_image.ubuntu-2004-lts.image_id
