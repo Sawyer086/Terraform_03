@@ -108,6 +108,12 @@ storage ansible_host=<внешний ip-адрес> fqdn=<полное доме�
 
 ### Задание 4:
 
+Создался файл hosts.cfg
+
+![1](https://github.com/Sawyer086/Terraform_03/blob/main/4/4.1.jpg)
+
+![2](https://github.com/Sawyer086/Terraform_03/blob/main/4/4.0.jpg)
+
 [ansible.tf](https://github.com/Sawyer086/Terraform_03/blob/main/src/ansible.tf)
 
 [hosts.tftpl](https://github.com/Sawyer086/Terraform_03/blob/main/src/hosts.tftpl)
