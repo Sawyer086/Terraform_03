@@ -117,3 +117,5 @@ storage ansible_host=<внешний ip-адрес> fqdn=<полное доме�
 [ansible.tf](https://github.com/Sawyer086/Terraform_03/blob/main/src/ansible.tf)
 
 [hosts.tftpl](https://github.com/Sawyer086/Terraform_03/blob/main/src/hosts.tftpl)
+
+https://github.com/Sawyer086/Terraform_03/commit/02b39016688d3bc66e0d8dd4e9d5fac4ce5c6336
